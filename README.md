@@ -151,4 +151,7 @@ Take a screenshot of the recipient’s address balance and history from your Gan
 
 ![Ganache 1](https://user-images.githubusercontent.com/105663954/195475296-3122f0c6-6496-484a-baeb-6a6e3b118f4f.png)
 
+![Blocks Ganache](https://user-images.githubusercontent.com/105663954/195476458-d26e04cc-6115-4cf4-83b6-67c85a2a6641.png)
+
+
 
